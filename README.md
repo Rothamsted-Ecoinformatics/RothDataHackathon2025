@@ -2,7 +2,7 @@
 
 **"Hackathon: , an integration of the words hack and marathon, is traditionally an event in which a large number of people meet to engage in collaborative computer programming."**
 
-[![Rothamsted Logo](https://www.rothamsted.ac.uk/sites/default/files/rothamsted-logo.png)](https://www.rothamsted.ac.uk/)
+[![Rothamsted Logo](images/rothamsted-logo.png)](https://www.rothamsted.ac.uk/)
 
 Rothamsted Research, with strategic funding from UKRI BBSRC, hosts three internationally renowned National Bioscience Research Infrastructures (NBRIs); the Rothamsted Long-Term Experiments (RLTEs), the North Wyke Farm Platform (NWFP) and the Rothamsted Insect Survey (RIS).They exist for the benefit of the scientific community in general and both their facilities and the open datasets they produce are freely available to researchers.
 
