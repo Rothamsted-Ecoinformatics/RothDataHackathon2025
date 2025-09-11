@@ -1,0 +1,56 @@
+csv_name,Column_name,Type,Format,Units,Rdf_type,Rdf_term,Description   
+Silage.csv,Experiment_Id,string,,,,,A non-unique ID showing the harvest year and whether the silage is first or second cut. See methods for more details.
+Silage.csv,Field,string,,,,,The name of the NWFP field
+Silage.csv,Field_split,string,,,,,"If the silage yield was from a split field (partial field), this is indicated in this column. See methods for more details."
+Silage.csv,Farmlet,string,,,,,"The farmlet to which the field belongs. Factor, 3 levels: Red, Blue, Green"
+Silage.csv,Farmlet_pre_2013,string,,,,,"If the field belonged to a different farmlet before some changes were made in 2013, the previous farmlet is given here."
+Silage.csv,Flume,integer,,,,,The flume into which surface and subsurface water from this field flows.
+Silage.csv,Sample_date,date,YYYY-MM-DD,,,,The sample date
+Silage.csv,Sample_time,time,hh:mm:ss,,,,"The sample time, if available. Not known whether this is UCT, or a mix of UCT and BST."
+Silage.csv,Easting,number,,,,,The Easting of the field centroid
+Silage.csv,Northing,number,,,,,The Northing of the field centroid
+Silage.csv,Harvest_area_ha,number,,ha,,,"The harvestable area of the field. This is different from the field size, and hence the harvest area may differ for the same field when silaged or under arable crops. See methods for more details."
+Silage.csv,Harvest_method,string,,,,,"The method by which the grass was cut, and yield measured. The harvest method has important implications for how the silage dry matter (t per ha) was calculated, see the methods for more details."
+Silage.csv,Silage_wet_yield_t,number,,t,,,"The wet yield of the grass in tonnes, where Harvest_method was either Weighbridge or Forage harvester. Note that the wet yield was after wilting, rather than being measured on the same day as cutting."
+Silage.csv,Silage_DM_percent,number,,%,,,The percentage dry matter of the silage
+Silage.csv,Silage_DM_ yield_t_per_field,number,,t/field,,,The dry matter yield in tonnes per field. 
+Silage.csv,Calculated_silage_DM_yield_t_per_ha,number,,t/ha,,,The dry matter yield in tonnes per hectare.
+Arable.csv,Experiment_Id,string,,,,,A non-unique ID showing the harvest year and what the arable crop is. See methods for more details.
+Arable.csv,Field,string,,,,,The name of the NWFP field
+Arable.csv,Farmlet,string,,,,,The farmlet to which the field belongs. Always has the value Red in the current dataset
+Arable.csv,Farmlet_pre_2013,string,,,,,"If the field belonged to a different farmlet before some changes were made in 2013, the previous farmlet is given here."
+Arable.csv,Flume,integer,,,,,The flume into which surface and subsurface water from this field flows.
+Arable.csv,Sample_date,date,YYYY-MM-DD,,,,The sample date
+Arable.csv,Sample_time,time,hh:mm:ss,,,,"The sample time, if available. Not known whether this is UCT, or a mix of UCT and BST."
+Arable.csv,Easting,number,,,,,The Easting of the field centroid
+Arable.csv,Northing,number,,,,,The Northing of the field centroid
+Arable.csv,Harvest area_ha,number,,ha,,,"The harvestable area of the field. This is different from the field size, and hence the harvest area may differ for the same field when silaged or under arable crops. See methods for more details."
+Arable.csv,Grain_wet_yield_t,number,,t,,,The wet yield of the grain in tonnes (per field).
+Arable.csv,Grain_moisture_percent,number,,%,,,The percentage moisture content of the grain.
+Arable.csv,Straw_wet_yield_t,number,,t,,,The wet yield of the straw in tonnes (per field).
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,

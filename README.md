@@ -9,7 +9,7 @@ Rothamsted Research, with strategic funding from UKRI BBSRC, hosts three intern
 Under the guidance of our NBRI experts, you will have access to the data and APIs (Application Programming Interfaces) with a challenge to communicate our NBRIs science and achievements through data.  
 
 ### Technical Information: 
-You can find more information on our three National Bioscience Research Infrastructures and their data on their respective web sites and our handy bird's eye view specially designed for this hackathon
+You can find more information on our three National Bioscience Research Infrastructures and their data on their respective web sites and our [[Data Resource]]  specially designed for this hackathon 
 
 - **e-RA and the Rothamsted Long-term Experiments: the oldest, continuous agronomic experiments in the world .**  
     [https://www.era.rothamsted.ac.uk/](https://www.era.rothamsted.ac.uk/)
@@ -21,3 +21,4 @@ You can find more information on our three National Bioscience Research Infrastr
 
 ### Practical Information
 You will find information about Venue, what to bring, travel and so on in our [[Practical Information]] pack
+
