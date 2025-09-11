@@ -22,7 +22,9 @@ You can find more information on our three National Bioscience Research Infrastr
 ### Practical Information
 You will find information about Venue, what to bring, travel and so on in our [[Practical Information]] pack
 
-## How To Submit Your Project?
+## How To Submit Your Project? 
+
+After you have formed a team, worked out a project description and have a created a repository with a simple README file, you will be ready to submit your project. We expect all the team projects to be submitted by the end of the first day. 
 
 Follow the steps to submit your project in the hackathon:
 
