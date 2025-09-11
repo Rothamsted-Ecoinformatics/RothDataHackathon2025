@@ -22,3 +22,15 @@ You can find more information on our three National Bioscience Research Infrastr
 ### Practical Information
 You will find information about Venue, what to bring, travel and so on in our [[Practical Information]] pack
 
+## How To Submit Your Project?
+
+Follow the steps to submit your project in the hackathon:
+
+* Visit the **Issues** tab in the respository and click on **New Issue**
+
+
+* Find the **Hackathon Submission** option and click on **Get Started** 
+
+
+* **Enter your submission details and you're good to go!**
+
