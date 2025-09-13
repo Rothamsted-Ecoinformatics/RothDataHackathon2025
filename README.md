@@ -36,7 +36,13 @@ Follow the steps to submit your project in the hackathon:
 
 * **Enter your submission details and you're good to go!**
 
-## Prizes 
+## Prizes categories
+
+### Public Engagement Award: 
+
+An opportunity to the winning team of the category of public engagement to bring their idea to New Scientist Live (as we have a stand at the Farmers Weekly exhibit with theme ‘The Future of Food & Agriculture: Feeding the World Sustainably’).
+Of course it's a high profile event and what we present there should be of high quality and to be able to provide an interesting engaging experience (ideally hands-on but not necessarily).
+
 ### The Royal Agricultural University  Inclusive AgriTech Impact Award
 
 The AgriTech Inclusive Impact Award is a natural extension of the Royal Agricultural University’s global values and international partnerships. It’s not just a prize, it is  a reflection of RAU’s commitment to equity, sustainability, and global collaboration in agriculture.
