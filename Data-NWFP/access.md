@@ -11,7 +11,15 @@ Usernames and Passwords will be available on the day
 
 ## NWFP  Data warehouse 
 
-Usernames and Passwords will be available on the day for those who want to use the Data warehouse and have not registered ahead. 
+username: password
+datahack1@outlook.com, Datah@ck1
+datahack2@outlook.com, Datah@ck2
+datahack3@outlook.com, Datah@ck3
+datahack4@outlook.com, Datah@ck4
+datahack5@outlook.com, Datah@ck5
+datahack6@outlook.com, Datah@ck6
+datahack7@outlook.com, Datah@ck7
+datahack8@outlook.com, Datah@ck8
 
 
 
