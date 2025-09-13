@@ -49,28 +49,28 @@ The AgriTech Inclusive Impact Award is a natural extension of the Royal Agricult
 
 This award celebrates the team whose project best demonstrates how agricultural data science can be harnessed to empower underrepresented communities, amplify minority voices, and create tangible benefits for developing countries. 
 
-Judging Criteria:
+#### Judging Criteria:
 
 Does the project make agricultural data more accessible to marginalized groups (e.g., smallholder farmers, indigenous communities, women in agriculture)?
 Does it address data gaps that disproportionately affect minorities or low-resource regions?
 
-Impact on Developing Countries
+##### Impact on Developing Countries
 
 How effectively does the solution translate scientific insights into practical tools or knowledge for developing nations?
 Does it consider local constraints such as limited internet access, low literacy rates, or climate vulnerabilities?
 
-Cultural & Linguistic Sensitivity
+##### Cultural & Linguistic Sensitivity
 
 Is the data presented in ways that are culturally relevant and linguistically inclusive?
 Are local languages, customs, and agricultural practices respected and reflected in the solution?
 
-Scalability & Sustainability
+##### Scalability & Sustainability
 
 Can the solution be scaled across different regions or adapted to various socio-economic contexts?
 Does it promote long-term resilience, food security, or sustainable farming practices?
 
 
-### Rothamsted Award fro Excellence and Innovation 
+### Rothamsted Award for Excellence and Innovation 
 - Criteria 1: Creativity and innovation  (RV Innovation)
 - Criteria 2: Technical execution (RV Excellence)
 - Criteria 3: Functional MVP (Minimum Viable Product)
