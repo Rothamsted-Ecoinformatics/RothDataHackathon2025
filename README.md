@@ -36,3 +36,37 @@ Follow the steps to submit your project in the hackathon:
 
 * **Enter your submission details and you're good to go!**
 
+## Prizes 
+### The Royal Agricultural University  Inclusive AgriTech Impact Award
+
+The AgriTech Inclusive Impact Award is a natural extension of the Royal Agricultural University’s global values and international partnerships. It’s not just a prize, it is  a reflection of RAU’s commitment to equity, sustainability, and global collaboration in agriculture.
+
+This award celebrates the team whose project best demonstrates how agricultural data science can be harnessed to empower underrepresented communities, amplify minority voices, and create tangible benefits for developing countries. 
+
+Judging Criteria:
+
+Does the project make agricultural data more accessible to marginalized groups (e.g., smallholder farmers, indigenous communities, women in agriculture)?
+Does it address data gaps that disproportionately affect minorities or low-resource regions?
+
+Impact on Developing Countries
+
+How effectively does the solution translate scientific insights into practical tools or knowledge for developing nations?
+Does it consider local constraints such as limited internet access, low literacy rates, or climate vulnerabilities?
+
+Cultural & Linguistic Sensitivity
+
+Is the data presented in ways that are culturally relevant and linguistically inclusive?
+Are local languages, customs, and agricultural practices respected and reflected in the solution?
+
+Scalability & Sustainability
+
+Can the solution be scaled across different regions or adapted to various socio-economic contexts?
+Does it promote long-term resilience, food security, or sustainable farming practices?
+
+
+### Rothamsted Award fro Excellence and Innovation 
+- Criteria 1: Creativity and innovation  (RV Innovation)
+- Criteria 2: Technical execution (RV Excellence)
+- Criteria 3: Functional MVP (Minimum Viable Product)
+- Criteria 4: Problem-solving and relevance
+- Criteria 5: Impact and potential
